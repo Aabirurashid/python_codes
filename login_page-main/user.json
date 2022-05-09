@@ -1,0 +1,56 @@
+{
+  "user_name": "Aabiru",
+  "password2": "rashid",
+  "description": "i am a student",
+  "DOB": "18/march",
+  "hobbies": "dancing",
+  "gender": "f",
+  "Rashid@123": [
+    {
+      "name": "Aabiru",
+      "password": "Rashid@123",
+      "describtion": "i am student",
+      "DOB": "18/march",
+      "Hobbies": "dancing",
+      "Gender": "f"
+    },
+    {
+      "name": "Aabiru",
+      "password": "Rashid@123",
+      "describtion": "i am a student",
+      "DOB": "18/march",
+      "Hobbies": "dancing",
+      "Gender": "f"
+    }
+  ],
+  "Moomin@123": [
+    {
+      "name": "Moomin",
+      "password": "Moomin@123",
+      "describtion": "i am codu player",
+      "DOB": "17/july",
+      "Hobbies": "cricket",
+      "Gender": "m"
+    }
+  ],
+  "Shakir19#": [
+    {
+      "name": "Razia",
+      "password": "Shakir19#",
+      "describtion": "kl hyxs hjydoidi yfum \\",
+      "DOB": "45678",
+      "Hobbies": "fghjkl",
+      "Gender": "ghj"
+    }
+  ],
+  "Aabiru@123": [
+    {
+      "name": "roshnijha",
+      "password": "Aabiru@123",
+      "describtion": "tyu",
+      "DOB": "65",
+      "Hobbies": "rty",
+      "Gender": "f"
+    }
+  ]
+}
